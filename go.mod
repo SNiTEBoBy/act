@@ -41,7 +41,7 @@ require (
 	gopkg.in/godo.v2 v2.0.9
 	gopkg.in/ini.v1 v1.41.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71
+	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools v2.2.0+incompatible
 )
 
